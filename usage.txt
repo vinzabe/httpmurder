@@ -1,0 +1,1 @@
+usage: node murdercontroller.js <link> <amount of threads to use (1-16 maximum)> <proxy list path>
